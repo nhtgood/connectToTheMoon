@@ -1,3 +1,1 @@
-# connectToTheMoon
-
-1. [N2] https://api.aoa24.com/rest/v1/otp-logs/mobile 
+[r2h]: https://api.aoa24.com/rest/v1/otp-logs/mobile
