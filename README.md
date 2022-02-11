@@ -1,1 +1,6 @@
-[r2h]: https://api.aoa24.com/rest/v1/otp-logs/mobile
+
+## N2
+
+```
+https://api.aoa24.com/rest/v1/otp-logs/mobile
+```
